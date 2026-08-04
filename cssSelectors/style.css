@@ -1,0 +1,25 @@
+/*תרגיל 1*/
+/* p {
+    color: blue;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+#title {
+    font-size: 30px;
+}
+
+button,a {
+    color: black;
+} */
+
+nav a {
+    color: black;
+}
+nav > a {
+    color: brown;
+}
+
+
