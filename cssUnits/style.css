@@ -1,0 +1,95 @@
+/*תרגיל 1*/
+/* .parent {
+    width: 600px;
+}
+
+.child {
+    width: 50%;
+}
+
+.fixed {
+    width: 200px;
+} */
+
+/*תרגיל 2*/
+
+/* #p1 {
+    font-size: 16px;
+}
+
+#p2 {
+    font-size: 1rem;
+} */
+
+/*תרגיל 3*/
+
+/* .box {
+    width: 200px;
+    padding: 20px;
+    border: 5px solid black;
+    margin: 30px;
+}
+
+* {
+    box-sizing: border-box;
+} */
+
+/*תרגיל 4*/
+/* #box1 {
+    font-size: 1.2em;
+}
+
+#box2 {
+    font-size: 1.2em;
+}
+
+#box3 {
+    font-size: 1.2em;
+} */
+
+/*תרגיל 4 חלק ב*/
+/* #box1 {
+    font-size: 1.2rem;
+}
+
+#box2 {
+    font-size: 1.2rem;
+}
+
+#box3 {
+    font-size: 1.2rem;
+} */
+
+/*תרגיל 5*/
+/* .welcome {
+    height: 100vh;
+    text-align: center;
+}
+
+
+
+.start {
+    width: 100vw;
+} */
+
+/*תרגיל 6*/
+.display1 {
+    height: 40px;
+    width: 100px;
+    display: inline-block;
+    
+}
+.display2 {
+    height: 40px;
+    width: 100px;
+    display: inline-block;
+
+}
+.display3 {
+    height: 40px;
+    width: 100px;
+    display: block;
+    
+}
+
+
