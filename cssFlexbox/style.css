@@ -1,0 +1,196 @@
+/*תרגיל 1*/
+/* .container {
+    display: flex;
+    gap: 16px;
+}
+
+.container div:nth-child(1) {
+    color: blue;
+}
+
+.container div:nth-child(2) {
+    color: red;
+}
+
+.container div:nth-child(3) {
+    color: black;
+} 
+
+.container div:nth-child(4) {
+    color: chocolate;
+}
+
+.container div:nth-child(5) {
+    color: chartreuse;
+} */
+
+/*תרגיל 2*/
+/* .container1 {
+    display: flex;
+    flex-direction:column;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.container3 {
+    display: flex;
+    flex-direction: row;
+}
+
+.container4 {
+    display: flex;
+    flex-direction: column-reverse;
+} */
+
+/*תרגיל 3*/
+/* .container  {
+    display: flex;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.end {
+    justify-content: flex-end;
+}
+
+.center {
+    justify-content: center;
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.evenly {
+    justify-content: space-evenly;
+} */
+
+/*תרגיל 4*/
+/* .items {
+    display: flex;
+    height: 200px;
+    align-items: center;
+}
+
+.end {
+    align-self: flex-end;
+}
+
+.start {
+    align-self: flex-start;
+} */
+
+/*תרגיל 5*/
+/* .container {
+    display: flex;
+    width: 200px;
+    height: 100px;
+    align-content: center;
+    flex-wrap: wrap;
+    border: 20px solid black; ;
+}
+
+.container div {
+    width: 50px;
+} */
+
+/*תרגיל 6*/
+
+/* .container {
+    display: flex;
+    border: 2px solid black;
+}
+.left {
+    flex: 0 0 200px;
+    background-color: red;
+}
+
+.main {
+    flex: 1;
+    background-color: green;
+}
+
+.right {
+    flex: 0 0 160px;
+    background-color: blue;
+} */
+
+/* .container {
+    display: flex;
+    border: 2px solid black;
+}
+.left {
+    flex: 1;
+    background-color: red;
+}
+
+.main {
+    flex: 2;
+    background-color: green;
+}
+
+.right {
+    flex: 1;
+    background-color: blue;
+} */
+
+/*תרגיל 7*/
+
+/* .cartlist {
+    display: flex;
+    list-style: none;
+    
+}
+
+.list1 {
+    order: 2;
+}
+
+.list2 {
+    order: 3;
+}
+
+.list3 {
+    order: 1;
+}
+
+.list4 {
+    order: 4;
+}
+
+.cartlist :nth-child(5) {
+    order: 5;
+} */
+
+/*תרגיל 9*/
+.layout  {
+    display: flex;
+    gap: 20px;
+}
+
+.cart {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    margin-top: auto;
+}
+
+
+
+
+
+
+
+
+
