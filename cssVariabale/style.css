@@ -1,0 +1,57 @@
+/*תרגיל 1*/
+/* :root {
+    --primary-color:blue;
+    --font-color: black;
+    --spacing:20px;
+}
+
+.display1 {
+    color: var(--primary-color);
+    background-color: var(--font-color);
+    padding: var(--spacing);
+}
+
+.display2 {
+    color: var(--primary-color);
+    background-color: var(--font-color);
+    padding: var(--spacing);
+}
+
+.display3 {
+    color: var(--primary-color);
+    background-color: var(--font-color);
+    padding: var(--spacing);
+} */
+
+/*תרגיל 2*/
+
+/* :root {
+    --primary:red;
+    --font-collor:black;
+}
+
+.display1 {
+    color: var(--collor,red);
+}
+
+.display2 {
+    color: var(--collor,var(--colorNotExiste,red));
+} */
+
+/*תרגיל 3*/
+:root {
+    --primary-collor:blue;
+}
+
+.card {
+    --primary-collor:red;
+}
+
+.badge {
+    color: var(--primary-collor);
+}
+
+.outside {
+    color: var(--primary-collor);
+}
+
